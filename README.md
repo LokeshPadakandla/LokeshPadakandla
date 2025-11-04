@@ -8,8 +8,5 @@
 - CSS (Basic) – HackerRank (Aug 2025)- (https://www.hackerrank.com/certificates/915dbb1f519f)  
   Demonstrated understanding of CSS fundamentals including selectors, properties, and styling techniques.
 
-💻 Java (Basic) — HackerRank
-
-View Certificate
-
-Demonstrates proficiency in Java fundamentals, including loops, conditionals, strings, and OOP principles for writing clean and efficient code.
+- Java (Basic)– HackerRank (Oct 2025) - (https://www.hackerrank.com/certificates/66a6cf0bad92)  
+  Demonstrates strong grasp of Java fundamentals — data types, control flow, and OOP principles for writing clean code.
